@@ -23,6 +23,21 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Lab – Vulhub Exploits](https://github.com/cyberwithcyril/VulhubPenTestingReport)**
 - **[DVWA PenTesting Report](https://github.com/cyberwithcyril/DVWA-PenTesting-Report)**  
 
+## 🚧 In-Progress Projects
+
+- **[PhishPatrol AI](https://github.com/cyberwithcyril/PhishPatrolAI)**  
+- **[PrayerWave]()**
+---
+
+## 🧩 Miscellaneous Projects
+
+- **[Web-React Portfolio (React)](https://github.com/cyberwithcyril/CurrentPortfolioReact)**  
+
+- **[Streaming Bundle (Java/JavaFX)](https://github.com/cyberwithcyril/StreamBundleSystemJava)**
+- **[Video Game Database (Angular)](https://github.com/cyberwithcyril/ng-video-game-db)**  
+- **[Vibe Guide (PHP/Javascript)](https://github.com/cyberwithcyril/Vibe-Guide-Web-Application/blob/main/README.md)**  
+ 
+ 
 <hr/>
 
 ## 🤳 Connect With Me
