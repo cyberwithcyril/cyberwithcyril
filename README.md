@@ -20,7 +20,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 💣 Exploitation and Offensive Security
 
-- **[Vulnerability Lab – Vulhub Exploits](https://github.com/cyberwithcyril/VulhubPenTestingReport)** 
+- **[Vulnerability Lab – Vulhub Exploits](https://github.com/cyberwithcyril/VulhubPenTestingReport)**
+- **[DVWA PenTesting Report](https://github.com/cyberwithcyril/DVWA-PenTesting-Report)**  
 
 <hr/>
 
