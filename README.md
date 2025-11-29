@@ -9,7 +9,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cyberwithcyril/ProgrammaticRemediation/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
-
+## 🔧 System Administration & Automation
+- **[Cross-Platform SysAdmin Security Toolkit](https://github.com/cyberwithcyril/sysadmin-security-toolkit)** 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberwithcyril/threat-hunting-scenario-tor)**
 - **[Cyber Home Lab](https://github.com/cyberwithcyril/cybersecurity-home-lab)**
 - **[Active Directory Tutorial](https://github.com/cyberwithcyril/activedirectorylab)**
