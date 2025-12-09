@@ -27,9 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚧 In-Progress Projects
 
-- **[PhishPatrol AI](https://github.com/cyberwithcyril/PhishPatrolAI)**  
-- **[PrayerWave]()**
----
+
 
 ## 🧩 Miscellaneous Projects
 
