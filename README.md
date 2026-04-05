@@ -28,8 +28,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[DVWA PenTesting Report](https://github.com/cyberwithcyril/DVWA-PenTesting-Report)**
 
 ## 🤖 Machine Learning & AI Security
-- **[Intrusion Detection System for IIoT using Deep Learning](https://github.com/cyberwithcyril/ids-iiot-deeplearning)** 
-   Intrusion Detection System for IIoT using Deep Learning
+- **[Intrusion Detection System for IIoT using Deep Learning](https://github.com/cyberwithcyril/ids-iiot-deeplearning)**
+- Intrusion Detection System for IIoT using Deep Learning
    Built a deep learning-based intrusion detection system for Industrial IoT (IIoT) environments.
    Implemented machine learning models to classify network traffic and detect anomalies, improving threat detection in simulated critical infrastructure scenarios.
  - Tech Used: Python, TensorFlow/PyTorch, Pandas, Scikit-learn
