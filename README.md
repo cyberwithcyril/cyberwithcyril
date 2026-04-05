@@ -34,6 +34,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
    Implemented machine learning models to classify network traffic and detect anomalies, improving threat detection in simulated critical infrastructure scenarios.
  - Tech Used: Python, TensorFlow/PyTorch, Pandas, Scikit-learn
  - Key Focus: Anomaly Detection, Network Security, AI-driven Threat Detection
+ - - **[ML & Deep Learning for IoT Intrusion Detection — Cross-Dataset Study](https://github.com/cyberwithcyril/ids-iot-combined)**
+- ML & Deep Learning for IoT Intrusion Detection: A Cross-Dataset Generalization Study
+   Benchmarked six ML and deep learning models across two IoT benchmark datasets — CIC-IoT-2023 (general IoT, 105 devices) and CICIoMT-2024 (medical IoT, 40 devices) — using identical 38-feature pipelines to investigate whether model performance generalizes across different IoT environments. Random Forest ranked 1st on both datasets (F1=0.9872 and F1=0.9995). Applied SHAP analysis to identify top attack indicators, revealing volumetric flooding signatures in general IoT and connection-based attack patterns in medical IoT.
+ - Tech Used: Python, TensorFlow, XGBoost, Random Forest, Scikit-learn, SHAP, Pandas, Matplotlib
+ - Key Focus: Cross-Dataset Generalization, IoT Security, Network Intrusion Detection, Model Interpretability, AI-driven Threat Detection
 
 ## 🚧 In-Progress Projects
 
