@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat-Hunting-Journal](https://github.com/cyberwithcyril/threat-hunting-journal)**
   
 ## 🔧 System Administration & Automation
+- **[Active Directory + Microsoft 365 Help Desk Lab](https://github.com/cyberwithcyril/homelab-ad-m365)**
+   Built a Windows Server 2022 domain (AD DS, DNS, DHCP, RRAS NAT, Group Policy) with a domain-joined Windows 11 client, extended it into a Microsoft 365 / Entra ID tenant, and worked 12 help desk tickets end to end: account lockouts, password resets, department moves, missing drive maps, onboarding/offboarding, DNS failures, broken domain trust, MFA re-registration, shared mailboxes, and cloud offboarding. Each ticket was reproduced, fixed in both the GUI and PowerShell, verified, and documented as a runbook with escalation criteria.
+   - Tech Used: Windows Server 2022, Windows 11, Active Directory, Group Policy, DNS/DHCP, PowerShell, Microsoft 365 admin center, Entra ID, Exchange Online, VirtualBox
+   - Key Focus: Help Desk Troubleshooting, Identity & Access Management, Least-Privilege Delegation, Onboarding/Offboarding, Technical Documentation
 - **[Cross-Platform SysAdmin Security Toolkit](https://github.com/cyberwithcyril/sysadmin-security-toolkit)** 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberwithcyril/threat-hunting-scenario-tor)**
 - **[Cyber Home Lab](https://github.com/cyberwithcyril/cybersecurity-home-lab)**
@@ -35,12 +39,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
    - Tech Used: Python, TensorFlow/PyTorch, Pandas, Scikit-learn
    - Key Focus: Anomaly Detection, Network Security, AI-driven Threat Detection
  - **[ML & Deep Learning for IoT Intrusion Detection — Cross-Dataset Study](https://github.com/cyberwithcyril/ids-iot-combined)**
-- ML & Deep Learning for IoT Intrusion Detection: A Cross-Dataset Generalization Study
    Benchmarked six ML and deep learning models across two IoT benchmark datasets — CIC-IoT-2023 (general IoT, 105 devices) and CICIoMT-2024 (medical IoT, 40 devices) — using identical 38-feature pipelines to investigate whether model performance generalizes across different IoT environments. Random Forest ranked 1st on both datasets (F1=0.9872 and F1=0.9995). Applied SHAP analysis to identify top attack indicators, revealing volumetric flooding signatures in general IoT and connection-based attack patterns in medical IoT.
    - Tech Used: Python, TensorFlow, XGBoost, Random Forest, Scikit-learn, SHAP, Pandas, Matplotlib
    - Key Focus: Cross-Dataset Generalization, IoT Security, Network Intrusion Detection, Model Interpretability, AI-driven Threat Detection
-
-## 🚧 In-Progress Projects
 
 
 
@@ -57,10 +58,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
