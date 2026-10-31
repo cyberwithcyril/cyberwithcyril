@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 ## 🔧 System Administration & Automation
 - **[Active Directory + Microsoft 365 Help Desk Lab](https://github.com/cyberwithcyril/homelab-ad-m365)**
-   Built a Windows Server 2022 domain (AD DS, DNS, DHCP, RRAS NAT, Group Policy) with a domain-joined Windows 11 client, extended it into a Microsoft 365 / Entra ID tenant, and worked 12 help desk tickets end to end: account lockouts, password resets, department moves, missing drive maps, onboarding/offboarding, DNS failures, broken domain trust, MFA re-registration, shared mailboxes, and cloud offboarding. Each ticket was reproduced, fixed in both the GUI and PowerShell, verified, and documented as a runbook with escalation criteria.
+  - Built a Windows Server 2022 domain (AD DS, DNS, DHCP, RRAS NAT, Group Policy) with a domain-joined Windows 11 client, extended it into a Microsoft 365 / Entra ID tenant, and worked 12 help desk tickets end to end: account lockouts, password resets, department moves, missing drive maps, onboarding/offboarding, DNS failures, broken domain trust, MFA re-registration, shared mailboxes, and cloud offboarding. Each ticket was reproduced, fixed in both the GUI and PowerShell, verified, and documented as a runbook with escalation criteria.
    - Tech Used: Windows Server 2022, Windows 11, Active Directory, Group Policy, DNS/DHCP, PowerShell, Microsoft 365 admin center, Entra ID, Exchange Online, VirtualBox
    - Key Focus: Help Desk Troubleshooting, Identity & Access Management, Least-Privilege Delegation, Onboarding/Offboarding, Technical Documentation
 - **[Cross-Platform SysAdmin Security Toolkit](https://github.com/cyberwithcyril/sysadmin-security-toolkit)** 
