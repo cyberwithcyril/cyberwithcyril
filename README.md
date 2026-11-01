@@ -12,10 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat-Hunting-Journal](https://github.com/cyberwithcyril/threat-hunting-journal)**
   
 ## 🔧 System Administration & Automation
-- **[Active Directory + Microsoft 365 Help Desk Lab](https://github.com/cyberwithcyril/homelab-ad-m365)**
-  - Built a Windows Server 2022 domain (AD DS, DNS, DHCP, RRAS NAT, Group Policy) with a domain-joined Windows 11 client, extended it into a Microsoft 365 / Entra ID tenant, and worked 12 help desk tickets end to end: account lockouts, password resets, department moves, missing drive maps, onboarding/offboarding, DNS failures, broken domain trust, MFA re-registration, shared mailboxes, and cloud offboarding. Each ticket was reproduced, fixed in both the GUI and PowerShell, verified, and documented as a runbook with escalation criteria.
-   - Tech Used: Windows Server 2022, Windows 11, Active Directory, Group Policy, DNS/DHCP, PowerShell, Microsoft 365 admin center, Entra ID, Exchange Online, VirtualBox
-   - Key Focus: Help Desk Troubleshooting, Identity & Access Management, Least-Privilege Delegation, Onboarding/Offboarding, Technical Documentation
+- **[Active Directory + Microsoft 365 Help Desk Lab](https://github.com/cyberwithcyril/homelab-ad-m365)** — Built a Server 2022 domain and Microsoft 365 / Entra ID tenant; resolved 12 help desk tickets in GUI and PowerShell, each documented as a runbook.
+- **[Help Desk Ticketing Simulation (Jira Service Management)](https://github.com/cyberwithcyril/helpdesk-ticket-sim)** — Ran a Jira service desk with SLAs and a customer portal; triaged and worked 20 tickets, wrote 8 knowledge base articles.
 - **[Cross-Platform SysAdmin Security Toolkit](https://github.com/cyberwithcyril/sysadmin-security-toolkit)** 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberwithcyril/threat-hunting-scenario-tor)**
 - **[Cyber Home Lab](https://github.com/cyberwithcyril/cybersecurity-home-lab)**
