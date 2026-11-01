@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🔧 System Administration & Automation
 - **[Active Directory + Microsoft 365 Help Desk Lab](https://github.com/cyberwithcyril/homelab-ad-m365)** — Built a Server 2022 domain and Microsoft 365 / Entra ID tenant; resolved 12 help desk tickets in GUI and PowerShell, each documented as a runbook.
 - **[Help Desk Ticketing Simulation (Jira Service Management)](https://github.com/cyberwithcyril/helpdesk-ticket-sim)** — Ran a Jira service desk with SLAs and a customer portal; triaged and worked 20 tickets, wrote 8 knowledge base articles.
+- **[Tier 1 PowerShell Toolkit](https://github.com/cyberwithcyril/tier1-powershell-toolkit)** — Wrote and tested 5 help desk scripts (print spooler, network reset, disk space, AD lockout) against real problems in my lab; found and fixed 7 bugs.
 - **[Cross-Platform SysAdmin Security Toolkit](https://github.com/cyberwithcyril/sysadmin-security-toolkit)** 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberwithcyril/threat-hunting-scenario-tor)**
 - **[Cyber Home Lab](https://github.com/cyberwithcyril/cybersecurity-home-lab)**
